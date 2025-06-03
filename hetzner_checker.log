@@ -1,0 +1,92 @@
+2025-06-03 12:26:38,677 - INFO - Found CX32 server type ID: 105
+2025-06-03 12:26:38,761 - ERROR - HTTP error 404: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/nbg1
+2025-06-03 12:26:38,762 - WARNING - Error checking location nbg1: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/nbg1
+2025-06-03 12:26:38,843 - ERROR - HTTP error 404: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/fsn1
+2025-06-03 12:26:38,843 - WARNING - Error checking location fsn1: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/fsn1
+2025-06-03 12:26:38,945 - ERROR - HTTP error 404: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/hel1
+2025-06-03 12:26:38,945 - WARNING - Error checking location hel1: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/hel1
+2025-06-03 12:26:39,104 - INFO - Stock monitoring started
+2025-06-03 12:26:39,181 - ERROR - HTTP error 404: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/nbg1
+2025-06-03 12:26:39,182 - WARNING - Error checking location nbg1: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/nbg1
+2025-06-03 12:26:39,263 - ERROR - HTTP error 404: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/fsn1
+2025-06-03 12:26:39,263 - WARNING - Error checking location fsn1: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/fsn1
+2025-06-03 12:26:39,327 - ERROR - HTTP error 404: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/hel1
+2025-06-03 12:26:39,327 - WARNING - Error checking location hel1: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/hel1
+2025-06-03 12:26:44,424 - ERROR - HTTP error 404: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/nbg1
+2025-06-03 12:26:44,425 - WARNING - Error checking location nbg1: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/nbg1
+2025-06-03 12:26:44,487 - ERROR - HTTP error 404: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/fsn1
+2025-06-03 12:26:44,487 - WARNING - Error checking location fsn1: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/fsn1
+2025-06-03 12:26:44,555 - ERROR - HTTP error 404: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/hel1
+2025-06-03 12:26:44,555 - WARNING - Error checking location hel1: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/hel1
+2025-06-03 12:26:49,654 - ERROR - HTTP error 404: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/nbg1
+2025-06-03 12:26:49,655 - WARNING - Error checking location nbg1: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/nbg1
+2025-06-03 12:26:49,748 - ERROR - HTTP error 404: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/fsn1
+2025-06-03 12:26:49,748 - WARNING - Error checking location fsn1: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/fsn1
+2025-06-03 12:26:49,847 - ERROR - HTTP error 404: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/hel1
+2025-06-03 12:26:49,847 - WARNING - Error checking location hel1: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/hel1
+2025-06-03 12:26:54,921 - ERROR - HTTP error 404: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/nbg1
+2025-06-03 12:26:54,922 - WARNING - Error checking location nbg1: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/nbg1
+2025-06-03 12:26:54,978 - ERROR - HTTP error 404: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/fsn1
+2025-06-03 12:26:54,979 - WARNING - Error checking location fsn1: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/fsn1
+2025-06-03 12:26:55,034 - ERROR - HTTP error 404: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/hel1
+2025-06-03 12:26:55,035 - WARNING - Error checking location hel1: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/hel1
+2025-06-03 12:27:00,105 - ERROR - HTTP error 404: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/nbg1
+2025-06-03 12:27:00,105 - WARNING - Error checking location nbg1: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/nbg1
+2025-06-03 12:27:00,170 - ERROR - HTTP error 404: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/fsn1
+2025-06-03 12:27:00,170 - WARNING - Error checking location fsn1: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/fsn1
+2025-06-03 12:27:00,227 - ERROR - HTTP error 404: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/hel1
+2025-06-03 12:27:00,228 - WARNING - Error checking location hel1: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/hel1
+2025-06-03 12:27:05,317 - ERROR - HTTP error 404: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/nbg1
+2025-06-03 12:27:05,317 - WARNING - Error checking location nbg1: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/nbg1
+2025-06-03 12:27:05,403 - ERROR - HTTP error 404: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/fsn1
+2025-06-03 12:27:05,404 - WARNING - Error checking location fsn1: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/fsn1
+2025-06-03 12:27:05,463 - ERROR - HTTP error 404: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/hel1
+2025-06-03 12:27:05,463 - WARNING - Error checking location hel1: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/hel1
+2025-06-03 12:27:10,552 - ERROR - HTTP error 404: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/nbg1
+2025-06-03 12:27:10,553 - WARNING - Error checking location nbg1: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/nbg1
+2025-06-03 12:27:10,645 - ERROR - HTTP error 404: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/fsn1
+2025-06-03 12:27:10,645 - WARNING - Error checking location fsn1: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/fsn1
+2025-06-03 12:27:10,725 - ERROR - HTTP error 404: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/hel1
+2025-06-03 12:27:10,725 - WARNING - Error checking location hel1: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/hel1
+2025-06-03 12:27:15,838 - ERROR - HTTP error 404: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/nbg1
+2025-06-03 12:27:15,839 - WARNING - Error checking location nbg1: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/nbg1
+2025-06-03 12:27:15,933 - ERROR - HTTP error 404: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/fsn1
+2025-06-03 12:27:15,933 - WARNING - Error checking location fsn1: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/fsn1
+2025-06-03 12:27:16,016 - ERROR - HTTP error 404: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/hel1
+2025-06-03 12:27:16,016 - WARNING - Error checking location hel1: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/hel1
+2025-06-03 12:27:21,084 - ERROR - HTTP error 404: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/nbg1
+2025-06-03 12:27:21,084 - WARNING - Error checking location nbg1: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/nbg1
+2025-06-03 12:27:21,140 - ERROR - HTTP error 404: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/fsn1
+2025-06-03 12:27:21,141 - WARNING - Error checking location fsn1: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/fsn1
+2025-06-03 12:27:21,199 - ERROR - HTTP error 404: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/hel1
+2025-06-03 12:27:21,199 - WARNING - Error checking location hel1: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/hel1
+2025-06-03 12:27:26,289 - ERROR - HTTP error 404: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/nbg1
+2025-06-03 12:27:26,289 - WARNING - Error checking location nbg1: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/nbg1
+2025-06-03 12:27:26,367 - ERROR - HTTP error 404: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/fsn1
+2025-06-03 12:27:26,367 - WARNING - Error checking location fsn1: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/fsn1
+2025-06-03 12:27:26,476 - ERROR - HTTP error 404: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/hel1
+2025-06-03 12:27:26,476 - WARNING - Error checking location hel1: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/locations/hel1
+2025-06-03 12:27:30,654 - INFO - Monitoring stopped by user
+2025-06-03 12:36:22,659 - INFO - Found CX32 server type ID: 105
+2025-06-03 12:36:22,742 - ERROR - HTTP error 404: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/datacenters/1
+2025-06-03 12:36:22,742 - WARNING - Error checking location fsn1: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/datacenters/1
+2025-06-03 12:36:23,068 - INFO - Stock monitoring started
+2025-06-03 12:36:23,156 - ERROR - HTTP error 404: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/datacenters/1
+2025-06-03 12:36:23,156 - WARNING - Error checking location fsn1: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/datacenters/1
+2025-06-03 12:36:28,497 - ERROR - HTTP error 404: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/datacenters/1
+2025-06-03 12:36:28,498 - WARNING - Error checking location fsn1: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/datacenters/1
+2025-06-03 12:36:33,815 - ERROR - HTTP error 404: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/datacenters/1
+2025-06-03 12:36:33,816 - WARNING - Error checking location fsn1: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/datacenters/1
+2025-06-03 12:36:39,078 - ERROR - HTTP error 404: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/datacenters/1
+2025-06-03 12:36:39,078 - WARNING - Error checking location fsn1: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/datacenters/1
+2025-06-03 12:36:44,358 - ERROR - HTTP error 404: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/datacenters/1
+2025-06-03 12:36:44,358 - WARNING - Error checking location fsn1: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/datacenters/1
+2025-06-03 12:36:49,641 - ERROR - HTTP error 404: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/datacenters/1
+2025-06-03 12:36:49,641 - WARNING - Error checking location fsn1: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/datacenters/1
+2025-06-03 12:36:54,966 - ERROR - HTTP error 404: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/datacenters/1
+2025-06-03 12:36:54,966 - WARNING - Error checking location fsn1: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/datacenters/1
+2025-06-03 12:37:00,374 - ERROR - HTTP error 404: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/datacenters/1
+2025-06-03 12:37:00,375 - WARNING - Error checking location fsn1: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/datacenters/1
+2025-06-03 12:37:05,651 - ERROR - HTTP error 404: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/datacenters/1
+2025-06-03 12:37:05,651 - WARNING - Error checking location fsn1: 404 Client Error: Not Found for url: https://api.hetzner.cloud/v1/datacenters/1
+2025-06-03 12:37:06,707 - INFO - Monitoring stopped by user
